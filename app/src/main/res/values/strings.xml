@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CATALOGUEMOVIE</string>
+    <string name="Movie">movie</string>
+    <string name="Tv">tv</string>
+    <string name="search_movie">search movie</string>
+    <string name="search_tv">search tv</string>
+    <string name="tidak">No</string>
+    <string name="successDelete">success Delete</string>
+    <string name="ya">Yes</string>
+    <string name="KonfirmasiFavorite">Confirm Favorite</string>
+    <string name="noFavoriteData">noFavoritData</string>
+    <string name="addFavorite">addFavorite</string>
+    <string name="deleteFavorite">delete Favorite</string>
+    <string name="detailMovie">detail movie</string>
+    <string name="detailtv">detailtv</string>
+    <string name="nodatafound">nodatafound</string>
+    <string name="image">image</string>
+    <string name="favorit">favorit</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="vote">vote</string>
+    <string name="original_language">original_language</string>
+    <string name="popularity">popularity</string>
+    <string name="overview">overview</string>
+    <string name="detail">detail</string>
+    <string name="share">share</string>
+    <string name="button">button</string>
+    <string name="change_language_settings">change_language_settings</string>
+    <string name="by_nanda_adisaputra">by_nanda_adisaputra</string>
+    <string name="home">Home</string>
+    <string name="movie">Movie</string>
+    <string name="tv">Tv</string>
+    <string name="movie_favorite">Movie Favorite</string>
+    <string name="tv_favorite">Tv Favorite</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KonfirmasiFavorite">Konfirmasi Favorite</string>
+    <string name="Movie">Film</string>
+    <string name="Tv">Tv</string>
+    <string name="addFavorite">Tambah Favorit</string>
+    <string name="app_name">Katalog Film</string>
+    <string name="button">tombol</string>
+    <string name="change_language_settings">Pengaturan ubah bahasa</string>
+    <string name="date">Tanggal</string>
+    <string name="deleteFavorite">Hapus Favorit</string>
+    <string name="detail">detail</string>
+    <string name="detailMovie">detail Film</string>
+    <string name="detailtv">detail Tv</string>
+    <string name="favorit">kesukaan</string>
+    <string name="image">gambar</string>
+    <string name="noFavoriteData">Tidak ada data Favorit</string>
+    <string name="nodatafound">Tidak Menemukan Data</string>
+    <string name="original_language">Bahasa Asli</string>
+    <string name="overview">Deskripsi</string>
+    <string name="popularity">Populer</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="search_tv">Cari Tv</string>
+    <string name="share">Bagikan</string>
+    <string name="successDelete">Sukses Hapus</string>
+    <string name="tidak">Tidak</string>
+    <string name="title">Judul</string>
+    <string name="vote">pilih</string>
+    <string name="ya">Ya</string>
+    <string name="by_nanda_adisaputra">oleh_nanda_adisaputra</string>
+</resources>
